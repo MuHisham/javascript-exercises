@@ -11,5 +11,6 @@ const sumAll = function(a, b) {
     }
 };
 
+console.log(sumAll(1.4, 5.6));
 // Do not edit below this line
 module.exports = sumAll;
